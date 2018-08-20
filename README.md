@@ -1,4 +1,5 @@
-# practice 1 for operating system
+# system call
+# project for operating system
 # author: jianfei zhao
 # github: https://github.com/jzhao11
 
